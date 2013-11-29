@@ -1,4 +1,3 @@
-
 #计算给定数据集的熵
 calShannon<-function(D)
 { #数据集最后一列必须是是类标号
